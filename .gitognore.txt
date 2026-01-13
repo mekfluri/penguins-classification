@@ -1,0 +1,35 @@
+# Virtualno okruženje
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset / veliki fajlovi
+data/
+*.csv
+*.h5
+*.npz
+*.pkl
+
+# Log fajlovi
+*.log
+
+# OS fajlovi
+.DS_Store
+Thumbs.db
+
+# PyCharm / IDE fajlovi
+.idea/
+*.iml
+
+# Konfiguracioni fajlovi za pipenv / poetry
+Pipfile.lock
+poetry.lock
