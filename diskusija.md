@@ -1,7 +1,7 @@
 # Diskusija i interpretacija rezultata projekta – Klasifikacija vrsta pingvina (Palmer Penguins Extended)
 
 **Napomena:**  
-Detaljan kod, sirovi izlazi (npr. confusion matrix, classification report, grafovi, printovi rezultata) nalaze se u originalnim notebook-ovima:  
+Detaljan kod i sirovi izlazi (npr. confusion matrix, classification report, grafovi i ispisi rezultata) nalaze se u originalnim notebook-ovima, zajedno sa diskusijom u okviru Markdown sekcija. Ovaj dokument predstavlja objedinjeni skup zaključaka preuzetih iz tih Markdown delova.  
 - 01_exploration_penguins.ipynb (eksploracija i deskriptivna analiza)  
 - 02_algorithms_and_interpretability.ipynb (algoritmi, optimizacija, interpretabilnost)  
 
