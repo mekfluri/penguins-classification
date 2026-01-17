@@ -13,7 +13,7 @@ U prvom koraku projekta izvršena je inicijalna analiza skupa podataka palmerpen
 
 Analiza numeričkih atributa pokazuje da podaci nemaju nedostajuće vrednosti, ali poseduju različite raspone i varijanse, zato je bilo potrebno standardizovati te podatke pre primene određenih klasifikacionih algoritama. Deskriptivna statistika je neophodna, prema metodologiji iz knjige "Statistical Methods for Machine Learning", za otkrivanje potencijalnih ekstremnih vrednosti (outliers) i razumevanju varijabiliteta unutar uzorka.
 
-Nakon numeričke analize, izvršen je analiza kategoričkih atributa. Utvrđeno je da ciljna varijabla species sadrži tri vrste, pri čemu je vrsta Adelie najzastupljenija (1560 instanci), dok Chinstrap čini najmanji deo uzorka. Ovo ukazuje na blagu debalansiranost klasa, što može da utiče na performanse modela.
+Nakon numeričke analize, izvršena je analiza kategoričkih atributa. Utvrđeno je da ciljna varijabla species sadrži tri vrste, pri čemu je vrsta Adelie najzastupljenija (1560 instanci), dok Chinstrap čini najmanji deo uzorka. Ovo ukazuje na blagu debalansiranost klasa, što može da utiče na performanse modela.
 Takođe, primećeno je da su ostali atributi, poput pola (sex), lokacije (island) i ishrane (diet), ravnomerno raspoređeni ili logički grupisani.
 
 ![slika korelacione matrice](image.png)
